@@ -30,9 +30,11 @@ Moreover, I had at my disposal a [document](./readMe/synthesis_expectations_cust
 ---
 
 ## Use case diagrams
-> I used [draw.io](https://app.diagrams.net/), to realise this [diagram](readMe/use_case_diagram.png). 
-> 
-![Legend](./readMe/use_case_diagram.png)
+I used [draw.io](https://app.diagrams.net/), to realise this diagram. 
+
+> Complete diagram [here](./readMe/use_case_diagram.png)
+
+![Legend](./readMe/example_use_case_diagram.png)
 
 [Back to the top](#description)
 
@@ -41,7 +43,7 @@ Moreover, I had at my disposal a [document](./readMe/synthesis_expectations_cust
 ## User stories with acceptance criteria
 
 > Complete user stories [here](readMe/user_stories.pdf)
-> 
+
 ![Legend](./readMe/example_user_stories.png)
 
 [Back to the top](#description)
